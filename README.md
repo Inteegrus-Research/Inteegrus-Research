@@ -1,12 +1,12 @@
 # Welcome to Inteegrus Research Lab
 
 ## Keerthi Kumar K J (aka Inteegrus)
-AI + Biohacking Innovator | Researcher in Human-Machine Synergy
+EC + AI + Neurotech Innovator | Researcher in Human-Machine Synergy
 
 ## About Me
-I am a passionate researcher working at the intersection of **Artificial Intelligence**, **Electronics & Communication**, and **Biohacking**. My mission is to develop technologies that can enhance human capabilities, particularly in areas like healthcare, neurotech, and environmental sustainability.
+I am a passionate researcher working at the intersection of **Artificial Intelligence**, **Electronics & Communication**, and **Neuroscience**. My mission is to develop technologies that can enhance human capabilities, particularly in areas like healthcare, neurotech, and environmental sustainability.
 
-Currently, I’m focusing on blending **AI** and **Biohacking** to create cutting-edge solutions for real-world challenges.
+Currently, I’m focusing on blending **AI** and **Neuroscience** to create cutting-edge solutions for real-world challenges.
 
 #### Key Interests:
 - Artificial Intelligence
