@@ -9,10 +9,24 @@ I am a passionate researcher working at the intersection of **Artificial Intelli
 Currently, I’m focusing on blending **AI** and **Neuroscience** to create cutting-edge solutions for real-world challenges.
 
 #### Key Interests:
+- Systems and Signals
 - Artificial Intelligence
-- Biohacking & Neurotechnology
-- Human-Machine Interfaces
+- Neurotechnology
 - Smart Systems & Automation
+
+## Structure of the Lab
+
+| **Key** | **Type**                             |
+|--------:|:-------------------------------------|
+| `SP_`   | Software Project                     |
+| `HP_`   | Hardware Project                     |
+| `BCI_`  | Brain-Computer Interface             |
+| `RP_`   | Research Prototype                   |
+| `IS_`   | Integrated System                    |
+| `EX_`   | Experimental or Exploratory          |
+| `BR_`   | Branding or Resume-related           |
+| `IP_`   | Internship Projects                  |
+
 
 ## Collaboration & Contributions
 
