@@ -41,7 +41,7 @@ I’m open to collaborating on AI-driven, biohacking, and neurotechnology projec
 You can reach out to me via:
 
 - **Email**: inteegrus.research@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/keerthi-kumar-k-j)
-- **Twitter (X)**: [@InteegrusResearch](https://twitter.com/InteegrusResearch)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/keerthi-kumar-k-j-neurotech)
+- **Twitter (X)**: [@inteegrus]([https://twitter.com/InteegrusResearch](https://x.com/inteegrus))
 
 ## Let’s Build the Future Together 🚀
