@@ -42,6 +42,6 @@ You can reach out to me via:
 
 - **Email**: inteegrus.research@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/keerthi-kumar-k-j-neurotech)
-- **Twitter (X)**: [@inteegrus]([https://twitter.com/InteegrusResearch](https://x.com/inteegrus))
+- **Twitter (X)**: [@inteegrus](https://x.com/inteegrus)
 
 ## Let’s Build the Future Together 🚀
