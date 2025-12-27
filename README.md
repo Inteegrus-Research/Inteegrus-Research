@@ -38,9 +38,4 @@ I am currently architecting a **closed-loop, wireless neural interface system**,
 * **`[RB]` Relatable:** Relatable works. *Additional reated works for my carreer.*
 
 ---
-
-### 📈 GitHub Stats
-![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inteegrus-Research&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
 *“Hard problems are just undefined engineering challenges.”*
