@@ -1,47 +1,46 @@
-# Welcome to Inteegrus Research Lab
+# 🧠 Engineering the Neural Interface
 
-## Keerthi Kumar K J (aka Inteegrus)
-EC + AI + Neurotech Innovator | Researcher in Human-Machine Synergy
+### Keerthi Kumar K J (Inteegrus)
+**Neuro-Hardware & Systems Integration Engineer**
+*Tamil Nadu, India*
 
-## About Me
-I am a passionate researcher working at the intersection of **Artificial Intelligence**, **Electronics & Communication**, and **Neuroscience**. My mission is to develop technologies that can enhance human capabilities, particularly in areas like healthcare, neurotech, and environmental sustainability.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/keerthi-kumar-k-j-neurotech)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:inteegrus.research@gmail.com)
 
-Currently, I’m focusing on blending **AI** and **Neuroscience** to create cutting-edge solutions for real-world challenges.
+---
 
-#### Key Interests:
-- Systems and Signals
-- Artificial Intelligence
-- Neurotechnology
-- Smart Systems & Automation
+### 🚀 Mission Statement
+I am an Electronics & Communication Engineer engineered to bridge the gap between **Silicon, Code, and Neurons**. My focus is not just research, but the **engineering implementation** of high-bandwidth Brain-Computer Interfaces (BCI) and surgical robotics.
 
-## Structure of the Lab
+I am currently architecting a **closed-loop, wireless neural interface system**, targeting entry into the elite neuro-engineering workforce (Neuralink/Synchron) by 2026.
 
-| **Key** | **Type**                             |
-|--------:|:-------------------------------------|
-| `SP_`   | Software Project                     |
-| `HP_`   | Hardware Project                     |
-| `BCI_`  | Brain-Computer Interface             |
-| `RP_`   | Research Prototype                   |
-| `IS_`   | Integrated System                    |
-| `EX_`   | Experimental or Exploratory          |
-| `BR_`   | Branding or Resume-related           |
-| `IP_`   | Internship Projects                  |
+---
 
+### ⚡ Technical Arsenal
 
-## Collaboration & Contributions
+| Domain | Core Stack |
+| :--- | :--- |
+| **Embedded Systems** | **STM32 (Bare Metal)**, FreeRTOS, DMA, C/C++, I2C/SPI/UART |
+| **Digital IC Design** | **SystemVerilog**, FPGA (Xilinx Vivado), Fixed-Point DSP, Timing Closure |
+| **High-Performance AI** | **CUDA C++**, TensorRT, PyTorch Quantization (INT8), NVIDIA Jetson |
+| **Signal Processing** | Real-Time Filtering (FIR/IIR), Spike Sorting, **Low-Latency Causal Pipelines** |
 
-I’m open to collaborating on AI-driven, biohacking, and neurotechnology projects. Feel free to reach out if you are working on something related or have ideas for potential collaboration.
+---
 
-### How to Contribute:
-- **Fork** the project, submit issues, and contribute code.
-- I’m always open to suggestions and pull requests on my projects!
+### 📂 Repository Legend (The Structure)
+*Navigate my repositories by their engineering domain tag.*
 
-## Contact Me
+* **`[EB]` Embedded Systems:** Bare-metal firmware, drivers, and RTOS implementations.
+* **`[IC]` IC Design & FPGA:** RTL design, verification testbenches, and hardware acceleration.
+* **`[AI]` High-Performance AI:** Model deployment, quantization, and GPU kernels.
+* **`[RP]` Research Prototypes:** Experimental concepts, academic proofs-of-concept, and legacy neuro-tech exploration.
+* **`[VC]` Vibe Coding:** Rapid prototyping, web dashboards, and UI experiments. *Used as support tools for core engineering visualization.*
+* **`[RB]` Relatable:** Relatable works. *Additional reated works for my carreer.*
 
-You can reach out to me via:
+---
 
-- **Email**: inteegrus.research@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/keerthi-kumar-k-j-neurotech)
-- **Twitter (X)**: [@inteegrus](https://x.com/inteegrus)
+### 📈 GitHub Stats
+![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inteegrus-Research&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-## Let’s Build the Future Together 🚀
+---
+*“Hard problems are just undefined engineering challenges.”*
