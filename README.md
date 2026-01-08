@@ -12,7 +12,7 @@
 ### 🚀 Mission Statement
 I am an Electronics & Communication Engineer engineered to bridge the gap between **Silicon, Code, and Neurons**. My focus is not just research, but the **engineering implementation** of high-bandwidth Brain-Computer Interfaces (BCI) and surgical robotics.
 
-I am currently architecting a **closed-loop, wireless neural interface system**, targeting entry into the elite neuro-engineering workforce (Neuralink/Synchron) by 2026.
+I am currently architecting a **closed-loop, wireless neural interface system**, targeting entry into the elite neuro-engineering workforce (Neuralink/Synchron) by 2028.
 
 ---
 
