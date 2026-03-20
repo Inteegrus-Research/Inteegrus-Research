@@ -1,7 +1,7 @@
-# 🧠 Engineering the Neural Interface
+#  Inteegrus Research Lab
 
-### Keerthi Kumar K J (Inteegrus)
-**Neuro-Hardware & Systems Integration Engineer**
+### Keerthi Kumar K J
+**Student Architect | Neuro-AI Systems Engineer**
 *Tamil Nadu, India*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/keerthi-kumar-k-j-neurotech)
@@ -10,32 +10,33 @@
 ---
 
 ### 🚀 Mission Statement
-I am an Electronics & Communication Engineer engineered to bridge the gap between **Silicon, Code, and Neurons**. My focus is not just research, but the **engineering implementation** of high-bandwidth Brain-Computer Interfaces (BCI) and surgical robotics.
+Architecting zero-latency, closed-loop Brain-Computer Interfaces (BCI) and Semantic Agentic systems. I bridge the gap between bare-metal biological data acquisition and deterministic Foundation AI. 
 
-I am currently architecting a **closed-loop, wireless neural interface system**, targeting entry into the elite neuro-engineering workforce (Neuralink/Synchron) by 2028.
+My focus is the uncompromising systems engineering required to translate human cognition into autonomous action. I am currently executing a rigorous 18-month architecture curriculum, building the stack from the silicon up.
 
 ---
 
-### ⚡ Technical Arsenal
+### ⚡ The Architecture Stack
 
-| Domain | Core Stack |
+| Domain | Core Technologies |
 | :--- | :--- |
-| **Embedded Systems** | **STM32 (Bare Metal)**, FreeRTOS, DMA, C/C++, I2C/SPI/UART |
-| **Digital IC Design** | **SystemVerilog**, FPGA (Xilinx Vivado), Fixed-Point DSP, Timing Closure |
-| **High-Performance AI** | **CUDA C++**, TensorRT, PyTorch Quantization (INT8), NVIDIA Jetson |
-| **Signal Processing** | Real-Time Filtering (FIR/IIR), Spike Sorting, **Low-Latency Causal Pipelines** |
+| **Embedded Neuro-Electronics** | **ARM Cortex-M (Bare Metal)**, FreeRTOS, DMA Firehoses, CMSIS-NN |
+| **High-Performance Systems** | **Modern C++20**, CUDA, Lock-Free Concurrency, CMake |
+| **Deep Computational Neuroscience** | Spiking Neural Networks (SNNs), Predictive Coding, Non-Convex Optimization |
+| **Foundation AI & Agentic BCI** | **PyTorch**, Neuro-Transformers, QLoRA, Local LLMs (vLLM, Llama-3) |
+| **Execution Environment** | Native **Arch Linux** |
 
 ---
 
 ### 📂 Repository Legend (The Structure)
-*Navigate my repositories by their engineering domain tag.*
+*My repositories are strictly organized by their engineering domain. They reflect active Proofs of Knowledge (PoKs) and clinical-grade system integrations.*
 
-* **`[EB]` Embedded Systems:** Bare-metal firmware, drivers, and RTOS implementations.
-* **`[IC]` IC Design & FPGA:** RTL design, verification testbenches, and hardware acceleration.
-* **`[AI]` High-Performance AI:** Model deployment, quantization, and GPU kernels.
-* **`[RP]` Research Prototypes:** Experimental concepts, academic proofs-of-concept, and legacy neuro-tech exploration.
-* **`[VC]` Vibe Coding:** Rapid prototyping, web dashboards, and UI experiments. *Used as support tools for core engineering visualization.*
-* **`[RB]` Relatable:** Relatable works. *Additional reated works for my carreer.*
+* **`[CORE]` System Integration:** The "God Repos." Full-stack, closed-loop BCI architectures, IPC pipelines, and native cognitive UIs.
+* **`[HW]` Embedded Neuro-Node:** Bare-metal firmware, zero-copy DMA streaming, and INT8-quantized edge AI deployment.
+* **`[MATH]` Theoretical Neuroscience:** SNN implementations, stochastic filtering, and mathematical derivations from first principles.
+* **`[DSP]` High-Performance Compute:** Sub-millisecond C++20 DSP pipelines, custom CUDA kernels, and spatial array processing.
+* **`[AI]` Foundation AI & Agentic BCI:** Neuro-Transformers, offline LLM deployment, and autonomous ReAct workflows.
+* **`[AO]` Add-Ons:** Hackathon Proejcts, Relatable works and more.
 
 ---
-*“Hard problems are just undefined engineering challenges.”*
+*"True mastery is bridging the physics of the electrode to the mathematics of the Transformer."*
