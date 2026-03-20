@@ -37,6 +37,7 @@ My focus is the uncompromising systems engineering required to translate human c
 * **`[DSP]` High-Performance Compute:** Sub-millisecond C++20 DSP pipelines, custom CUDA kernels, and spatial array processing.
 * **`[AI]` Foundation AI & Agentic BCI:** Neuro-Transformers, offline LLM deployment, and autonomous ReAct workflows.
 * **`[AO]` Add-Ons:** Hackathon Proejcts, Relatable works and more.
+* **`[IP]` Intelectual Properties:** Patents, Papers, Chapers.
 
 ---
 *"True mastery is bridging the physics of the electrode to the mathematics of the Transformer."*
