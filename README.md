@@ -31,13 +31,12 @@ My focus is the uncompromising systems engineering required to translate human c
 ### 📂 Repository Legend (The Structure)
 *My repositories are strictly organized by their engineering domain. They reflect active Proofs of Knowledge (PoKs) and clinical-grade system integrations.*
 
-* **`[CORE]` System Integration:** The "God Repos." Full-stack, closed-loop BCI architectures, IPC pipelines, and native cognitive UIs.
-* **`[HW]` Embedded Neuro-Node:** Bare-metal firmware, zero-copy DMA streaming, and INT8-quantized edge AI deployment.
-* **`[MATH]` Theoretical Neuroscience:** SNN implementations, stochastic filtering, and mathematical derivations from first principles.
-* **`[DSP]` High-Performance Compute:** Sub-millisecond C++20 DSP pipelines, custom CUDA kernels, and spatial array processing.
 * **`[AI]` Foundation AI & Agentic BCI:** Neuro-Transformers, offline LLM deployment, and autonomous ReAct workflows.
 * **`[AO]` Add-Ons:** Hackathon Proejcts, Relatable works and more.
+* **`[CORE]` System Integration:** The "God Repos." Full-stack, closed-loop BCI architectures, IPC pipelines, and native cognitive UIs.
+* **`[DSP]` High-Performance Compute:** Sub-millisecond C++20 DSP pipelines, custom CUDA kernels, and spatial array processing.
+* **`[HW]` Embedded Neuro-Node:** Bare-metal firmware, zero-copy DMA streaming, and INT8-quantized edge AI deployment.
 * **`[IP]` Intelectual Properties:** Patents, Papers, Chapers.
-
+* **`[MATH]` Theoretical Neuroscience:** SNN implementations, stochastic filtering, and mathematical derivations from first principles.
 ---
 *"True mastery is bridging the physics of the electrode to the mathematics of the Transformer."*
