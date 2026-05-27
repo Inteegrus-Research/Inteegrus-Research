@@ -1,7 +1,7 @@
 #  Inteegrus Research Lab
 
 ### Keerthi Kumar K J
-**Student Architect 
+**Student Architect** 
 *Tamil Nadu, India*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/keerthi-kumar-k-j-neurotech)
