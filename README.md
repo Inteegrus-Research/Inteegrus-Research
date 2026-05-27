@@ -1,7 +1,7 @@
 #  Inteegrus Research Lab
 
 ### Keerthi Kumar K J
-**Student Architect | Neuro-AI Systems Engineer**
+**Student Architect 
 *Tamil Nadu, India*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/keerthi-kumar-k-j-neurotech)
@@ -12,7 +12,7 @@
 ### 🚀 Mission Statement
 Architecting zero-latency, closed-loop Brain-Computer Interfaces (BCI) and Semantic Agentic systems. I bridge the gap between bare-metal biological data acquisition and deterministic Foundation AI. 
 
-My focus is the uncompromising systems engineering required to translate human cognition into autonomous action. I am currently executing a rigorous 18-month architecture curriculum, building the stack from the silicon up.
+My focus is the uncompromising systems engineering required to translate human cognition into autonomous action.
 
 ---
 
@@ -20,7 +20,6 @@ My focus is the uncompromising systems engineering required to translate human c
 
 | Domain | Core Technologies |
 | :--- | :--- |
-| **Embedded Neuro-Electronics** | **ARM Cortex-M (Bare Metal)**, FreeRTOS, DMA Firehoses, CMSIS-NN |
 | **High-Performance Systems** | **Modern C++20**, CUDA, Lock-Free Concurrency, CMake |
 | **Deep Computational Neuroscience** | Spiking Neural Networks (SNNs), Predictive Coding, Non-Convex Optimization |
 | **Foundation AI & Agentic BCI** | **PyTorch**, Neuro-Transformers, QLoRA, Local LLMs (vLLM, Llama-3) |
